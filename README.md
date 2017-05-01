@@ -1,5 +1,5 @@
 # OUMLE
-## Maximum Likelihood Paramter Estimation for Ornstein Uhlenbeck
+## Maximum Likelihood Parameter Estimation for Ornstein Uhlenbeck
 
 Based on Maximum likelihood estimation of mean reverting processes by Jose Carlos Garcia Franco
 
